@@ -15,7 +15,7 @@ Este projeto consiste em uma aplicação web para uma papelaria, com o backend d
 
 ### Backend
 
-- **Python**: Linguagem principal para desenvolvimento do backend.
+- **Python**: Linguagem principal para desenvolvimento do back-end.
 - **Flask**: Microframework utilizado para criar a API RESTful.
 - **MySQL**: Banco de dados relacional utilizado para armazenar dados.
 
@@ -23,7 +23,7 @@ Este projeto consiste em uma aplicação web para uma papelaria, com o backend d
 ### Frontend
 
 - **React**: Biblioteca JavaScript para construção da interface de usuário.
-- **Axios**: Biblioteca para fazer requisições HTTP ao backend.
+- **Axios**: Biblioteca para fazer requisições HTTP ao back-end.
 - **Bootstrap**: Framework CSS para estilização responsiva.
 
 ## Instalação e Configuração
@@ -38,8 +38,8 @@ Este projeto consiste em uma aplicação web para uma papelaria, com o backend d
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/papelaria.git
-    cd papelaria/backend
+    git clone https://github.com/seu-usuario/project_rabisco.git
+    cd project_rabisco/backend
     ```
 
 2. Crie e ative um ambiente virtual:
@@ -93,7 +93,7 @@ Este projeto consiste em uma aplicação web para uma papelaria, com o backend d
 ## Estrutura do Projeto
 
 ```
-papelaria/
+project_rabisco/
 ├── backend/
 │   ├── app/
 │   │   ├── __init__.py
